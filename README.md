@@ -1,5 +1,9 @@
 # H&M Retail Sales Analysis | Excel Dashboard
+   
+## Dashboard Preview
 
+![H&M Retail Sales Dashboard](Screenshot%202026-10-22%20141203.png)
+                                             
 ## Project Overview
 
 This project focuses on retail sales analysis through an interactive Excel dashboard inspired by H&M's fashion retail business.
